@@ -10,6 +10,4 @@
 
 4.BOOK USED AS REFERENCE:
 
-  Programming with JAVA (7e)
-  
-              -E.BALGURUSAMY
+  Programming with JAVA (7e) by E.BALAGURUSAMY
